@@ -27,7 +27,7 @@ export default defineConfig({
       }
     },
     allowedHosts: [
-      '22dd-103-135-132-149.ngrok-free.app',
+      'https://docapp-client-drlf.vercel.app',
       'localhost',
       '127.0.0.1',
       '.ngrok-free.app' // This will allow any ngrok subdomain
